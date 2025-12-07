@@ -9,5 +9,5 @@ Shield Power‑Up – John Lemon can pick up a glowing shield item. While active
 Repository Link: https://github.com/SamarilV/Haunted-House
 Video Link: 
 Build Information
-- Windows build uploaded by: [Name of person who uploaded build]
-- Build location: [Mention if included in your submission or teammate’s submission]
+- Windows build uploaded by: Samaril
+- Build location: My submission
